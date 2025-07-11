@@ -285,7 +285,7 @@ Population-specific risk factor that may or may not affect fertility.
 If you use this software in your research or clinical practice, please cite:
 
 ```
-Garcia, T.X. (2024). classify-Y-del: Y-Chromosomal Microdeletion Classifier v1.0. 
+Garcia, T.X. (2025). classify-Y-del: Y-Chromosomal Microdeletion Classifier v1.0. 
 GitHub repository: https://github.com/Thomas-X-Garcia/classify-Y-del
 ```
 
