@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: 'classify-Y-del: Y-Chromosomal Microdeletion Classifier'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas X.
+    family-names: Garcia
+    orcid: 'https://orcid.org/0000-0001-7761-2660'
+repository-code: 'https://github.com/Thomas-X-Garcia/classify-Y-del'
+url: 'https://github.com/Thomas-X-Garcia/classify-Y-del'
+abstract: >-
+  A Python implementation of the EAA/EMQN best practice
+  guidelines for molecular diagnosis of Y-chromosomal
+  microdeletions (Krausz et al., 2023). This software
+  provides clinical-grade classification of AZF deletions
+  for male infertility diagnosis.
+keywords:
+  - Y-chromosome
+  - microdeletions
+  - AZF
+  - male infertility
+  - clinical genetics
+  - molecular diagnostics
+  - EAA/EMQN guidelines
+license: MIT
+version: 1.0.0
+date-released: '2025-07-11'
